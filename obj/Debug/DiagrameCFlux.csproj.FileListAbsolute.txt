@@ -1,0 +1,7 @@
+C:\Users\benja\source\repos\DiagrameCFlux\DiagrameCFlux\bin\Debug\DiagrameCFlux.exe.config
+C:\Users\benja\source\repos\DiagrameCFlux\DiagrameCFlux\bin\Debug\DiagrameCFlux.exe
+C:\Users\benja\source\repos\DiagrameCFlux\DiagrameCFlux\bin\Debug\DiagrameCFlux.pdb
+C:\Users\benja\source\repos\DiagrameCFlux\DiagrameCFlux\obj\Debug\DiagrameCFlux.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\DiagrameCFlux\DiagrameCFlux\obj\Debug\DiagrameCFlux.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\DiagrameCFlux\DiagrameCFlux\obj\Debug\DiagrameCFlux.exe
+C:\Users\benja\source\repos\DiagrameCFlux\DiagrameCFlux\obj\Debug\DiagrameCFlux.pdb
